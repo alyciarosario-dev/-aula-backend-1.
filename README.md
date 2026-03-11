@@ -1,5 +1,5 @@
 # -aula-backend-1.
-**Nome Completo:** Alycia Cristina Cardozo do Rosario
+**Nome Completo:** Alycia Cristina Cardozo do Rosário
 
 **Turma:** Tecnico Desenvolvimento de Sistemas - 2A
 
